@@ -1,0 +1,13 @@
+-tb_customer userdetailed_id vs customer_id?
+-what is tb_distributor referred_by?
+-tb_status is separated?
+-why is tb_order separated by tb_order_products?
+-purpose of product owned by?
+-what us tb_distrubutor_ref?
+
+
+
+
+as what i understand:
+-user can be distributor or customer
+-if distributor, he can view orders
